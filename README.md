@@ -1,4 +1,4 @@
 brunosato.com
 =============
 
-My Blog, using python, django, bootstrap, requirejs, gulp
+Blog, using python, django, bootstrap
